@@ -1,0 +1,4 @@
+name: core
+version: '${project.version}'
+main: com.lothus.bungee.BungeeCore
+author: Toddy
